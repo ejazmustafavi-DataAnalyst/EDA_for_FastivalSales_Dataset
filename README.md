@@ -32,5 +32,4 @@ The notebook includes:
 - Measured total sales and compared performance across customer segments.
 - Analyzed sales by gender, age group, marital status, occupation, state, product category, and product ID.
 - Identified top-performing categories and customer segments for more targeted marketing.
-
-This project is a great example of how data analysis can turn sales data into actionable business insights. Share the repo link on LinkedIn to attract clients interested in retail or sales analytics.
+LinkedIn to attract clients interested in retail or sales analytics.
